@@ -7,4 +7,13 @@
 <br>
 <br>
   
-<img src="./Gif_Landing_page/GifLandingPage1.gif">  
+<div align="center">  
+<img src="https://github.com/Lucas-dev-br/Pagina_de_Captura/blob/master/GifLandingPage1.gif" height="425">  
+</div>
+
+## 🕹️ Technologies
+
+This project was developed with the following technologies:
+
+- ✔️HTML
+- ✔️CSS
