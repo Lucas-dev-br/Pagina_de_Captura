@@ -16,6 +16,13 @@
 <img src="https://github.com/Lucas-dev-br/Pagina_de_Captura/blob/master/GifLandingPage1.gif" height="425">  
 </div>
 
+User will put these fields:
+
++ name
++ email
++ state
+
+
 ## 🕹️ Technologies
 
 This project was developed with the following technologies:
