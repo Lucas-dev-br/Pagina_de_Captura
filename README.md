@@ -1,2 +1,12 @@
-# Pagina_de_Captura
-Uma pagina que ira ler seu e-mail e lhe enviar um e-mail contendo algum conteúdo feito apenas com HTML E CSS
+  <br>
+<h1 align="center"> Project Landing page </h1>
+  <br>
+  
+  <p align="center"> A landing page that receives user information such as email, name, city. It also returns the email to the user (using mailchimp). </p>
+  
+  <br>
+  <br>
+  
+  <img src=".
+  
+  
