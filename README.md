@@ -2,11 +2,14 @@
   
 <br>
   
-  > Status: ✔️ Complete
+ > Status: ✔️ Complete
   
-<p align="center"> A landing page that receives user information such as email, name, city. It also returns the email to the user (using mailchimp). </p>
+ <br>
+
+<p> A landing page that receives user information such as email, name, city. It also returns the email to the user (using mailchimp). </p>
   
 <br>
+
 <br>
   
 <div align="center">  
